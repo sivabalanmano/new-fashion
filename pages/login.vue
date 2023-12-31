@@ -20,8 +20,8 @@
            
             Password <br> <input type="password" placeholder="Password" class="px-2  rounded-lg border"><br>
             <div class="text-sm text-green-500 flex items-center justify-end text-shadow-lg">
-            <div >
-                Forget Password</div>
+            <div class="underline cursor-pointer" >
+                Forget Password?</div>
             </div>
         </div> 
     </div>
@@ -33,8 +33,8 @@
         </div> 
         
     </div>
-        <div class="text-sm flex  items-center justify-center">
-            I don't Have a Account
+        <div class="text-sm flex  items-center justify-center underline cursor-pointer">
+            I don't Have a Account  ?
         </div>
     </div>
 </div>
